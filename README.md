@@ -37,8 +37,3 @@
 </div>
 
 ---
-
-### 🤝 Let's Collaborate
-<div align="center">
-  <p>If you're building something exciting or want to brainstorm ideas, feel free to <a href="https://www.linkedin.com/in/alvarogonzalez10/" target="_blank"><strong>reach out on LinkedIn</strong></a>. Let's make something awesome together!</p>
-</div>
