@@ -4,12 +4,12 @@
 
 ---
 
-<div align="center">
+<!-- <div align="center">
   <h3>🌐 Connect with Me</h3>
   <a href="https://www.linkedin.com/in/alvarogonzalez10/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-</div>
+</div> -->
 
 ---
 
